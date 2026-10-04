@@ -4,7 +4,7 @@
 
 
 
-# 👋 Halo, I'm Wafa
+# 👋 Halo, I'm Nayla
 
 My name is wafa, currently based in Bojonegoro,East Java .  
 Passionate about web development, game development, and always eager to learn new things!
